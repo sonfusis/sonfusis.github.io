@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sonfusis.github.io/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/app/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/assets/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/css/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/data/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/includes/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/item/sitemap.html.gz
+Sitemap: https://sonfusis.github.io/src/sitemap.html.gz
